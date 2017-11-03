@@ -8,5 +8,9 @@
     "48": "icon48.png",
     "16": "icon16.png",
     },
-  "default_icon": "icon16.png",
+  "permissions": ["tabs", "<all_urls>"],
+  "browser_action": {
+    "default_icon": "icon16.png",
+    "default_popup": "popup.html"
+  }
 }
