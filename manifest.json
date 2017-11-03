@@ -1,1 +1,12 @@
-
+{
+  "manifest_version": 2,
+  "name": "Extension",
+  "version": "1.0",
+  "description": "This is our chrome extension for ... ",
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png",
+    "16": "icon16.png",
+    }
+  "default_icon": "icon16.png",
+}
